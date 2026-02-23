@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_guide=self.webpackChunkdocusaurus_guide||[]).push([[1823],{8500:s=>{s.exports=JSON.parse('{"permalink":"/Docusaurus-Blog/blog/tags/car","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

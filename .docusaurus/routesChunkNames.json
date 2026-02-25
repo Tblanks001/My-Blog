@@ -1,0 +1,296 @@
+{
+  "/build/__docusaurus/debug-f78": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/__docusaurus/debug/config-ad9": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/__docusaurus/debug/content-c26": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    },
+    "__props": "__props---build-docusaurus-debug-content-33-d-e20"
+  },
+  "/build/__docusaurus/debug/globalData-c50": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/__docusaurus/debug/metadata-92b": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/__docusaurus/debug/registry-586": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/__docusaurus/debug/routes-4e7": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+    }
+  },
+  "/build/about-40f": {
+    "__comp": "__comp---site-src-pages-about-js-779-319",
+    "__context": {
+      "plugin": "plugin---build-abouta-74-2fe"
+    },
+    "config": "config---build-about-5-e-9-7f2"
+  },
+  "/build/blog-414": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "items": [
+      {
+        "content": "content---build-blogb-12-fb2"
+      },
+      {
+        "content": "content---build-blog-131-5fb"
+      },
+      {
+        "content": "content---build-blog-148-9d7"
+      },
+      {
+        "content": "content---build-bloga-5-b-845"
+      },
+      {
+        "content": "content---build-blogb-02-e58"
+      },
+      {
+        "content": "content---build-blog-787-ff7"
+      },
+      {
+        "content": "content---build-blogbdb-b09"
+      }
+    ],
+    "__props": "__props---build-blogfed-7d7"
+  },
+  "/build/blog/archive-c9f": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "__props": "__props---build-blog-archivecf-4-54d"
+  },
+  "/build/blog/authors-8c5": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "__props": "__props---build-blog-authors-839-444"
+  },
+  "/build/blog/dealing-with-expectations-a8d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-dealing-with-expectationse-74-f5e"
+  },
+  "/build/blog/first-blog-post-db3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-first-blog-post-054-460"
+  },
+  "/build/blog/how-life-has-been-going-these-past-few-years-470": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-how-life-has-been-going-these-past-few-years-847-40a"
+  },
+  "/build/blog/My-Car-620": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-my-car-507-7b6"
+  },
+  "/build/blog/my-time-in-taos-e8c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-my-time-in-taos-5-cc-7b9"
+  },
+  "/build/blog/plans-for-this-year-92d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-plans-for-this-year-4-f-6-593"
+  },
+  "/build/blog/tags-efe": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "__props": "__props---build-blog-tags-2-f-9-b2a"
+  },
+  "/build/blog/tags/car-6c4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "items": [
+      {
+        "content": "content---build-blog-787-ff7"
+      }
+    ],
+    "__props": "__props---build-blog-tags-car-79-b-236"
+  },
+  "/build/blog/tags/goals-4b7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "items": [
+      {
+        "content": "content---build-blogb-12-fb2"
+      },
+      {
+        "content": "content---build-blog-131-5fb"
+      },
+      {
+        "content": "content---build-blog-148-9d7"
+      },
+      {
+        "content": "content---build-bloga-5-b-845"
+      }
+    ],
+    "__props": "__props---build-blog-tags-goalse-6-a-8d2"
+  },
+  "/build/blog/tags/jobs-07f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "items": [
+      {
+        "content": "content---build-blogb-02-e58"
+      },
+      {
+        "content": "content---build-blogbdb-b09"
+      }
+    ],
+    "__props": "__props---build-blog-tags-jobscc-6-0c8"
+  },
+  "/build/blog/why-i-deleted-my-social-media-3d3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+      },
+      "plugin": "plugin---build-blog-369-ab4"
+    },
+    "sidebar": "sidebar---build-blog-814-19b",
+    "content": "content---build-blog-why-i-deleted-my-social-media-1-af-f51"
+  },
+  "/build/markdown-page-05c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---build-abouta-74-2fe"
+    },
+    "content": "content---build-markdown-page-393-d10"
+  },
+  "/build/docs-06a": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---build-docsaba-aae"
+    }
+  },
+  "/build/docs-d74": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---build-docsc-48-390"
+  },
+  "/build/docs-0da": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/build/docs/category/custom-title-b60": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---build-docs-category-custom-title-141-3ed"
+  },
+  "/build/docs/getting started/alerts-33d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-alerts-270-cba"
+  },
+  "/build/docs/getting started/codeblocks-256": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-codeblocks-133-e66"
+  },
+  "/build/docs/getting started/markdown-d08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-markdowna-4-e-037"
+  },
+  "/build/docs/getting started/mdx-b25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-mdx-955-eae"
+  },
+  "/build/docs/getting started/table-of-contents-a5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-table-of-contentsaa-5-401"
+  },
+  "/build/docs/getting started/tabs-ea7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-getting-started-tabsb-7-b-070"
+  },
+  "/build/docs/single-page-f7d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-docs-single-paged-76-e03"
+  },
+  "/build/-c66": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---build-abouta-74-2fe"
+    },
+    "config": "config---build-about-5-e-9-7f2"
+  }
+}

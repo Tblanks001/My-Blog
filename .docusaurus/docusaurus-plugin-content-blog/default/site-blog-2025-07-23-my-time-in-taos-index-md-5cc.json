@@ -1,0 +1,44 @@
+{
+  "permalink": "/build/blog/my-time-in-taos",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-07-23-my-time-in-taos/index.md",
+  "source": "@site/blog/2025-07-23-my-time-in-taos/index.md",
+  "title": "My Time In Taos",
+  "description": "After failing to generate much profit from the Rectangle Corner booth we had at Super Nova 2024, I decided to get a few jobs to get more money for the business. I went on Indeed and saw a job as a crew member for the Rocky Mountain Youth Corps. I applied and got a quick response back, which is what I was looking for. I had no interest in waiting it out to see if there were better job offers. I just wanted to make some money and obtain a new experience.",
+  "date": "2025-07-23T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Jobs",
+      "permalink": "/build/blog/tags/jobs"
+    }
+  ],
+  "readingTime": 3.47,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Travis Blanks",
+      "title": "Jack of All Trades",
+      "url": "https://travisblanks.com",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "Gekaku",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "my-time-in-taos",
+    "title": "My Time In Taos",
+    "authors": "Gekaku",
+    "tags": [
+      "Jobs"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Why I Deleted My Social Media",
+    "permalink": "/build/blog/why-i-deleted-my-social-media"
+  },
+  "nextItem": {
+    "title": "My Car",
+    "permalink": "/build/blog/My-Car"
+  }
+}

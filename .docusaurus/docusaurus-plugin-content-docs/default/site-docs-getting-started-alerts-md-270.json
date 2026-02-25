@@ -1,0 +1,27 @@
+{
+  "id": "getting started/alerts",
+  "title": "Alerts or Admonitions",
+  "description": "Here's some information with Markdown styling.",
+  "source": "@site/docs/getting started/alerts.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/alerts",
+  "permalink": "/build/docs/getting started/alerts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Alerts or Admonitions",
+    "sidebar_position": 5
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Tabs in Markdown",
+    "permalink": "/build/docs/getting started/tabs"
+  },
+  "next": {
+    "title": "Codeblocks",
+    "permalink": "/build/docs/getting started/codeblocks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "getting started/codeblocks",
+  "title": "Codeblocks",
+  "description": "",
+  "source": "@site/docs/getting started/codeblocks.md",
+  "sourceDirName": "getting started",
+  "slug": "/getting started/codeblocks",
+  "permalink": "/build/docs/getting started/codeblocks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Codeblocks",
+    "sidebar_position": 6
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Alerts or Admonitions",
+    "permalink": "/build/docs/getting started/alerts"
+  }
+}

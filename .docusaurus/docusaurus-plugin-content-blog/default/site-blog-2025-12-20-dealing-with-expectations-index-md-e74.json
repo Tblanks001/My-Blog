@@ -1,0 +1,44 @@
+{
+  "permalink": "/build/blog/dealing-with-expectations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-12-20-dealing-with-expectations/index.md",
+  "source": "@site/blog/2025-12-20-dealing-with-expectations/index.md",
+  "title": "Dealing With Expectations",
+  "description": "The more I look back on my August 14th post, the more it feels like I need to elaborate more on what I'm saying. Especially that last paragraph, which seemed pretty jarring. This blog is a place where I get personal and hold no punches, so expect to see more of that as time goes on.",
+  "date": "2025-12-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Goals",
+      "permalink": "/build/blog/tags/goals"
+    }
+  ],
+  "readingTime": 4.47,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Travis Blanks",
+      "title": "Jack of All Trades",
+      "url": "https://travisblanks.com",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "Gekaku",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "dealing-with-expectations",
+    "title": "Dealing With Expectations",
+    "authors": "Gekaku",
+    "tags": [
+      "Goals"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Plans for This Year",
+    "permalink": "/build/blog/plans-for-this-year"
+  },
+  "nextItem": {
+    "title": "How Life Has Been Going These Past Few Years",
+    "permalink": "/build/blog/how-life-has-been-going-these-past-few-years"
+  }
+}

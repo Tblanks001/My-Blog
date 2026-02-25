@@ -1,0 +1,40 @@
+{
+  "permalink": "/build/blog/first-blog-post",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-07-10-first-blog-post/index.md",
+  "source": "@site/blog/2025-07-10-first-blog-post/index.md",
+  "title": "First Blog Post",
+  "description": "This is my first day making a website from scratch. Gotta start somewhere. Ok, so what should I put here? How about a video of me working?",
+  "date": "2025-07-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Jobs",
+      "permalink": "/build/blog/tags/jobs"
+    }
+  ],
+  "readingTime": 0.83,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Travis Blanks",
+      "title": "Jack of All Trades",
+      "url": "https://travisblanks.com",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "Gekaku",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "First Blog Post",
+    "authors": "Gekaku",
+    "tags": [
+      "Jobs"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "My Car",
+    "permalink": "/build/blog/My-Car"
+  }
+}

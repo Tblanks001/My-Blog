@@ -1,0 +1,44 @@
+{
+  "permalink": "/build/blog/My-Car",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-07-21-My-Car/index.md",
+  "source": "@site/blog/2025-07-21-My-Car/index.md",
+  "title": "My Car",
+  "description": "This is my car",
+  "date": "2025-07-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Car",
+      "permalink": "/build/blog/tags/car"
+    }
+  ],
+  "readingTime": 1.33,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Travis Blanks",
+      "title": "Jack of All Trades",
+      "url": "https://travisblanks.com",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "Gekaku",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "My-Car",
+    "title": "My Car",
+    "authors": "Gekaku",
+    "tags": [
+      "Car"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "My Time In Taos",
+    "permalink": "/build/blog/my-time-in-taos"
+  },
+  "nextItem": {
+    "title": "First Blog Post",
+    "permalink": "/build/blog/first-blog-post"
+  }
+}

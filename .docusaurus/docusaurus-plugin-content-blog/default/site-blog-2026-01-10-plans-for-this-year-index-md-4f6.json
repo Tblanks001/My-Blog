@@ -1,0 +1,40 @@
+{
+  "permalink": "/build/blog/plans-for-this-year",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2026-01-10-plans-for-this-year/index.md",
+  "source": "@site/blog/2026-01-10-plans-for-this-year/index.md",
+  "title": "Plans for This Year",
+  "description": "This year I'm gonna keep it simple.",
+  "date": "2026-01-10T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "Goals",
+      "permalink": "/build/blog/tags/goals"
+    }
+  ],
+  "readingTime": 1.28,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Travis Blanks",
+      "title": "Jack of All Trades",
+      "url": "https://travisblanks.com",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "Gekaku",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "plans-for-this-year",
+    "title": "Plans for This Year",
+    "authors": "Gekaku",
+    "tags": [
+      "Goals"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Dealing With Expectations",
+    "permalink": "/build/blog/dealing-with-expectations"
+  }
+}

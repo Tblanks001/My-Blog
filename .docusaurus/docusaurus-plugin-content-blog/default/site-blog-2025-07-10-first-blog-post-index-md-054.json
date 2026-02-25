@@ -1,5 +1,5 @@
 {
-  "permalink": "/build/blog/first-blog-post",
+  "permalink": "/My-Blog/blog/first-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-07-10-first-blog-post/index.md",
   "source": "@site/blog/2025-07-10-first-blog-post/index.md",
   "title": "First Blog Post",
@@ -9,7 +9,7 @@
     {
       "inline": true,
       "label": "Jobs",
-      "permalink": "/build/blog/tags/jobs"
+      "permalink": "/My-Blog/blog/tags/jobs"
     }
   ],
   "readingTime": 0.83,
@@ -35,6 +35,6 @@
   "unlisted": false,
   "prevItem": {
     "title": "My Car",
-    "permalink": "/build/blog/My-Car"
+    "permalink": "/My-Blog/blog/My-Car"
   }
 }

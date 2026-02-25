@@ -1,296 +1,253 @@
 {
-  "/build/__docusaurus/debug-f78": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/My-Blog/about-f66": {
+    "__comp": "7792a21f",
     "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/__docusaurus/debug/config-ad9": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/__docusaurus/debug/content-c26": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
+      "plugin": "a7456010"
     },
-    "__props": "__props---build-docusaurus-debug-content-33-d-e20"
+    "config": "5e9f5e1a"
   },
-  "/build/__docusaurus/debug/globalData-c50": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
+  "/My-Blog/blog-a1b": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/__docusaurus/debug/metadata-92b": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/__docusaurus/debug/registry-586": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/__docusaurus/debug/routes-4e7": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---build-docusaurus-debugb-38-0c0"
-    }
-  },
-  "/build/about-40f": {
-    "__comp": "__comp---site-src-pages-about-js-779-319",
-    "__context": {
-      "plugin": "plugin---build-abouta-74-2fe"
+      "plugin": "36994c47"
     },
-    "config": "config---build-about-5-e-9-7f2"
-  },
-  "/build/blog-414": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
-    },
-    "sidebar": "sidebar---build-blog-814-19b",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---build-blogb-12-fb2"
+        "content": "b1249810"
       },
       {
-        "content": "content---build-blog-131-5fb"
+        "content": "1318337e"
       },
       {
-        "content": "content---build-blog-148-9d7"
+        "content": "148b235c"
       },
       {
-        "content": "content---build-bloga-5-b-845"
+        "content": "a5b791e7"
       },
       {
-        "content": "content---build-blogb-02-e58"
+        "content": "b02a2287"
       },
       {
-        "content": "content---build-blog-787-ff7"
+        "content": "787477f2"
       },
       {
-        "content": "content---build-blogbdb-b09"
+        "content": "bdb9db0f"
       }
     ],
-    "__props": "__props---build-blogfed-7d7"
+    "__props": "f6c663d1"
   },
-  "/build/blog/archive-c9f": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/My-Blog/blog/archive-329": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "__props": "__props---build-blog-archivecf-4-54d"
+    "__props": "c94cc383"
   },
-  "/build/blog/authors-8c5": {
-    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
-    "__context": {
-      "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
-      },
-      "plugin": "plugin---build-blog-369-ab4"
-    },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "__props": "__props---build-blog-authors-839-444"
-  },
-  "/build/blog/dealing-with-expectations-a8d": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/authors-e07": {
+    "__comp": "621db11d",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-dealing-with-expectationse-74-f5e"
+    "sidebar": "814f3328",
+    "__props": "6b54e36d"
   },
-  "/build/blog/first-blog-post-db3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/dealing-with-expectations-147": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-first-blog-post-054-460"
+    "sidebar": "814f3328",
+    "content": "e742cdc5"
   },
-  "/build/blog/how-life-has-been-going-these-past-few-years-470": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/first-blog-post-d37": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-how-life-has-been-going-these-past-few-years-847-40a"
+    "sidebar": "814f3328",
+    "content": "054abd07"
   },
-  "/build/blog/My-Car-620": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/how-life-has-been-going-these-past-few-years-4f3": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-my-car-507-7b6"
+    "sidebar": "814f3328",
+    "content": "847385ef"
   },
-  "/build/blog/my-time-in-taos-e8c": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/My-Car-cc1": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-my-time-in-taos-5-cc-7b9"
+    "sidebar": "814f3328",
+    "content": "507e2fe7"
   },
-  "/build/blog/plans-for-this-year-92d": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/my-time-in-taos-70a": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-plans-for-this-year-4-f-6-593"
+    "sidebar": "814f3328",
+    "content": "5cccb6d9"
   },
-  "/build/blog/tags-efe": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/My-Blog/blog/plans-for-this-year-dc8": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "__props": "__props---build-blog-tags-2-f-9-b2a"
+    "sidebar": "814f3328",
+    "content": "4f67eec2"
   },
-  "/build/blog/tags/car-6c4": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/My-Blog/blog/tags-9e1": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
+    "sidebar": "814f3328",
+    "__props": "d785a274"
+  },
+  "/My-Blog/blog/tags/car-781": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---build-blog-787-ff7"
+        "content": "787477f2"
       }
     ],
-    "__props": "__props---build-blog-tags-car-79-b-236"
+    "__props": "c1de2a13"
   },
-  "/build/blog/tags/goals-4b7": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/My-Blog/blog/tags/goals-887": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---build-blogb-12-fb2"
+        "content": "b1249810"
       },
       {
-        "content": "content---build-blog-131-5fb"
+        "content": "1318337e"
       },
       {
-        "content": "content---build-blog-148-9d7"
+        "content": "148b235c"
       },
       {
-        "content": "content---build-bloga-5-b-845"
+        "content": "a5b791e7"
       }
     ],
-    "__props": "__props---build-blog-tags-goalse-6-a-8d2"
+    "__props": "81d3e5f2"
   },
-  "/build/blog/tags/jobs-07f": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/My-Blog/blog/tags/jobs-367": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---build-blogb-02-e58"
+        "content": "b02a2287"
       },
       {
-        "content": "content---build-blogbdb-b09"
+        "content": "bdb9db0f"
       }
     ],
-    "__props": "__props---build-blog-tags-jobscc-6-0c8"
+    "__props": "76f632f9"
   },
-  "/build/blog/why-i-deleted-my-social-media-3d3": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/My-Blog/blog/why-i-deleted-my-social-media-8a3": {
+    "__comp": "ccc49370",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---build-blog-authorsace-9ca"
+        "blogMetadata": "acecf23e"
       },
-      "plugin": "plugin---build-blog-369-ab4"
+      "plugin": "36994c47"
     },
-    "sidebar": "sidebar---build-blog-814-19b",
-    "content": "content---build-blog-why-i-deleted-my-social-media-1-af-f51"
+    "sidebar": "814f3328",
+    "content": "1afca45c"
   },
-  "/build/markdown-page-05c": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/My-Blog/markdown-page-f9b": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---build-abouta-74-2fe"
+      "plugin": "a7456010"
     },
-    "content": "content---build-markdown-page-393-d10"
+    "content": "393be207"
   },
-  "/build/docs-06a": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/My-Blog/docs-9d7": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---build-docsaba-aae"
+      "plugin": "aba21aa0"
     }
   },
-  "/build/docs-d74": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---build-docsc-48-390"
+  "/My-Blog/docs-336": {
+    "__comp": "a7bd4aaa",
+    "__props": "249abd0b"
   },
-  "/build/docs-0da": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/My-Blog/docs-911": {
+    "__comp": "a94703ab"
   },
-  "/build/docs/category/custom-title-b60": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---build-docs-category-custom-title-141-3ed"
+  "/My-Blog/docs/category/custom-title-3cb": {
+    "__comp": "14eb3368",
+    "__props": "5ffa94e0"
   },
-  "/build/docs/getting started/alerts-33d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-alerts-270-cba"
+  "/My-Blog/docs/getting started/alerts-b5f": {
+    "__comp": "17896441",
+    "content": "270c0592"
   },
-  "/build/docs/getting started/codeblocks-256": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-codeblocks-133-e66"
+  "/My-Blog/docs/getting started/codeblocks-2fe": {
+    "__comp": "17896441",
+    "content": "1333e0c7"
   },
-  "/build/docs/getting started/markdown-d08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-markdowna-4-e-037"
+  "/My-Blog/docs/getting started/markdown-ffc": {
+    "__comp": "17896441",
+    "content": "a4ec97d4"
   },
-  "/build/docs/getting started/mdx-b25": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-mdx-955-eae"
+  "/My-Blog/docs/getting started/mdx-6cd": {
+    "__comp": "17896441",
+    "content": "95566ef7"
   },
-  "/build/docs/getting started/table-of-contents-a5d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-table-of-contentsaa-5-401"
+  "/My-Blog/docs/getting started/table-of-contents-4a5": {
+    "__comp": "17896441",
+    "content": "aa530b7f"
   },
-  "/build/docs/getting started/tabs-ea7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-getting-started-tabsb-7-b-070"
+  "/My-Blog/docs/getting started/tabs-65f": {
+    "__comp": "17896441",
+    "content": "b7b5789b"
   },
-  "/build/docs/single-page-f7d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---build-docs-single-paged-76-e03"
+  "/My-Blog/docs/single-page-ba7": {
+    "__comp": "17896441",
+    "content": "d76b4426"
   },
-  "/build/-c66": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/My-Blog/-cd2": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---build-abouta-74-2fe"
+      "plugin": "a7456010"
     },
-    "config": "config---build-about-5-e-9-7f2"
+    "config": "5e9f5e1a"
   }
 }

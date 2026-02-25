@@ -7,11 +7,11 @@ export default {
   "title": "Gekaku",
   "tagline": "Click the photo to learn more about me!",
   "favicon": "img/gpp.jpg",
-  "url": "https://gekaku.com",
-  "baseUrl": "/build/",
-  "organizationName": "facebook",
-  "projectName": "gekaku",
-  "onBrokenLinks": "throw",
+  "url": "https://Tblanks001.github.io",
+  "baseUrl": "/My-Blog/",
+  "organizationName": "Tlbanks001",
+  "projectName": "My-Blog",
+  "onBrokenLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

@@ -1,5 +1,5 @@
 {
-  "permalink": "/build/blog/how-life-has-been-going-these-past-few-years",
+  "permalink": "/My-Blog/blog/how-life-has-been-going-these-past-few-years",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-09-29-how-life-has-been-going-these-past-few-years/index.md",
   "source": "@site/blog/2025-09-29-how-life-has-been-going-these-past-few-years/index.md",
   "title": "How Life Has Been Going These Past Few Years",
@@ -9,7 +9,7 @@
     {
       "inline": true,
       "label": "Goals",
-      "permalink": "/build/blog/tags/goals"
+      "permalink": "/My-Blog/blog/tags/goals"
     }
   ],
   "readingTime": 3.77,
@@ -35,10 +35,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Dealing With Expectations",
-    "permalink": "/build/blog/dealing-with-expectations"
+    "permalink": "/My-Blog/blog/dealing-with-expectations"
   },
   "nextItem": {
     "title": "Why I Deleted My Social Media",
-    "permalink": "/build/blog/why-i-deleted-my-social-media"
+    "permalink": "/My-Blog/blog/why-i-deleted-my-social-media"
   }
 }

@@ -11,17 +11,17 @@ const config = {
   favicon: 'img/gpp.jpg',
 
   // Set the production url of your site here
-  url: 'https://gekaku.com',
+  url: 'https://Tblanks001.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/build/',
+  baseUrl: '/My-Blog/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'gekaku', // Usually your repo name.
+  organizationName: 'Tlbanks001', // Usually your GitHub org/user name.
+  projectName: 'My-Blog', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful

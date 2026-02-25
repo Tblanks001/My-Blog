@@ -1,5 +1,5 @@
 {
-  "permalink": "/build/blog/my-time-in-taos",
+  "permalink": "/My-Blog/blog/my-time-in-taos",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-07-23-my-time-in-taos/index.md",
   "source": "@site/blog/2025-07-23-my-time-in-taos/index.md",
   "title": "My Time In Taos",
@@ -9,7 +9,7 @@
     {
       "inline": true,
       "label": "Jobs",
-      "permalink": "/build/blog/tags/jobs"
+      "permalink": "/My-Blog/blog/tags/jobs"
     }
   ],
   "readingTime": 3.47,
@@ -35,10 +35,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Why I Deleted My Social Media",
-    "permalink": "/build/blog/why-i-deleted-my-social-media"
+    "permalink": "/My-Blog/blog/why-i-deleted-my-social-media"
   },
   "nextItem": {
     "title": "My Car",
-    "permalink": "/build/blog/My-Car"
+    "permalink": "/My-Blog/blog/My-Car"
   }
 }

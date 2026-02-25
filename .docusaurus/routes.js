@@ -3,177 +3,142 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/build/__docusaurus/debug',
-    component: ComponentCreator('/build/__docusaurus/debug', 'f78'),
+    path: '/My-Blog/about',
+    component: ComponentCreator('/My-Blog/about', 'f66'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/config',
-    component: ComponentCreator('/build/__docusaurus/debug/config', 'ad9'),
+    path: '/My-Blog/blog',
+    component: ComponentCreator('/My-Blog/blog', 'a1b'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/content',
-    component: ComponentCreator('/build/__docusaurus/debug/content', 'c26'),
+    path: '/My-Blog/blog/archive',
+    component: ComponentCreator('/My-Blog/blog/archive', '329'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/globalData',
-    component: ComponentCreator('/build/__docusaurus/debug/globalData', 'c50'),
+    path: '/My-Blog/blog/authors',
+    component: ComponentCreator('/My-Blog/blog/authors', 'e07'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/metadata',
-    component: ComponentCreator('/build/__docusaurus/debug/metadata', '92b'),
+    path: '/My-Blog/blog/dealing-with-expectations',
+    component: ComponentCreator('/My-Blog/blog/dealing-with-expectations', '147'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/registry',
-    component: ComponentCreator('/build/__docusaurus/debug/registry', '586'),
+    path: '/My-Blog/blog/first-blog-post',
+    component: ComponentCreator('/My-Blog/blog/first-blog-post', 'd37'),
     exact: true
   },
   {
-    path: '/build/__docusaurus/debug/routes',
-    component: ComponentCreator('/build/__docusaurus/debug/routes', '4e7'),
+    path: '/My-Blog/blog/how-life-has-been-going-these-past-few-years',
+    component: ComponentCreator('/My-Blog/blog/how-life-has-been-going-these-past-few-years', '4f3'),
     exact: true
   },
   {
-    path: '/build/about',
-    component: ComponentCreator('/build/about', '40f'),
+    path: '/My-Blog/blog/My-Car',
+    component: ComponentCreator('/My-Blog/blog/My-Car', 'cc1'),
     exact: true
   },
   {
-    path: '/build/blog',
-    component: ComponentCreator('/build/blog', '414'),
+    path: '/My-Blog/blog/my-time-in-taos',
+    component: ComponentCreator('/My-Blog/blog/my-time-in-taos', '70a'),
     exact: true
   },
   {
-    path: '/build/blog/archive',
-    component: ComponentCreator('/build/blog/archive', 'c9f'),
+    path: '/My-Blog/blog/plans-for-this-year',
+    component: ComponentCreator('/My-Blog/blog/plans-for-this-year', 'dc8'),
     exact: true
   },
   {
-    path: '/build/blog/authors',
-    component: ComponentCreator('/build/blog/authors', '8c5'),
+    path: '/My-Blog/blog/tags',
+    component: ComponentCreator('/My-Blog/blog/tags', '9e1'),
     exact: true
   },
   {
-    path: '/build/blog/dealing-with-expectations',
-    component: ComponentCreator('/build/blog/dealing-with-expectations', 'a8d'),
+    path: '/My-Blog/blog/tags/car',
+    component: ComponentCreator('/My-Blog/blog/tags/car', '781'),
     exact: true
   },
   {
-    path: '/build/blog/first-blog-post',
-    component: ComponentCreator('/build/blog/first-blog-post', 'db3'),
+    path: '/My-Blog/blog/tags/goals',
+    component: ComponentCreator('/My-Blog/blog/tags/goals', '887'),
     exact: true
   },
   {
-    path: '/build/blog/how-life-has-been-going-these-past-few-years',
-    component: ComponentCreator('/build/blog/how-life-has-been-going-these-past-few-years', '470'),
+    path: '/My-Blog/blog/tags/jobs',
+    component: ComponentCreator('/My-Blog/blog/tags/jobs', '367'),
     exact: true
   },
   {
-    path: '/build/blog/My-Car',
-    component: ComponentCreator('/build/blog/My-Car', '620'),
+    path: '/My-Blog/blog/why-i-deleted-my-social-media',
+    component: ComponentCreator('/My-Blog/blog/why-i-deleted-my-social-media', '8a3'),
     exact: true
   },
   {
-    path: '/build/blog/my-time-in-taos',
-    component: ComponentCreator('/build/blog/my-time-in-taos', 'e8c'),
+    path: '/My-Blog/markdown-page',
+    component: ComponentCreator('/My-Blog/markdown-page', 'f9b'),
     exact: true
   },
   {
-    path: '/build/blog/plans-for-this-year',
-    component: ComponentCreator('/build/blog/plans-for-this-year', '92d'),
-    exact: true
-  },
-  {
-    path: '/build/blog/tags',
-    component: ComponentCreator('/build/blog/tags', 'efe'),
-    exact: true
-  },
-  {
-    path: '/build/blog/tags/car',
-    component: ComponentCreator('/build/blog/tags/car', '6c4'),
-    exact: true
-  },
-  {
-    path: '/build/blog/tags/goals',
-    component: ComponentCreator('/build/blog/tags/goals', '4b7'),
-    exact: true
-  },
-  {
-    path: '/build/blog/tags/jobs',
-    component: ComponentCreator('/build/blog/tags/jobs', '07f'),
-    exact: true
-  },
-  {
-    path: '/build/blog/why-i-deleted-my-social-media',
-    component: ComponentCreator('/build/blog/why-i-deleted-my-social-media', '3d3'),
-    exact: true
-  },
-  {
-    path: '/build/markdown-page',
-    component: ComponentCreator('/build/markdown-page', '05c'),
-    exact: true
-  },
-  {
-    path: '/build/docs',
-    component: ComponentCreator('/build/docs', '06a'),
+    path: '/My-Blog/docs',
+    component: ComponentCreator('/My-Blog/docs', '9d7'),
     routes: [
       {
-        path: '/build/docs',
-        component: ComponentCreator('/build/docs', 'd74'),
+        path: '/My-Blog/docs',
+        component: ComponentCreator('/My-Blog/docs', '336'),
         routes: [
           {
-            path: '/build/docs',
-            component: ComponentCreator('/build/docs', '0da'),
+            path: '/My-Blog/docs',
+            component: ComponentCreator('/My-Blog/docs', '911'),
             routes: [
               {
-                path: '/build/docs/category/custom-title',
-                component: ComponentCreator('/build/docs/category/custom-title', 'b60'),
+                path: '/My-Blog/docs/category/custom-title',
+                component: ComponentCreator('/My-Blog/docs/category/custom-title', '3cb'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/alerts',
-                component: ComponentCreator('/build/docs/getting started/alerts', '33d'),
+                path: '/My-Blog/docs/getting started/alerts',
+                component: ComponentCreator('/My-Blog/docs/getting started/alerts', 'b5f'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/codeblocks',
-                component: ComponentCreator('/build/docs/getting started/codeblocks', '256'),
+                path: '/My-Blog/docs/getting started/codeblocks',
+                component: ComponentCreator('/My-Blog/docs/getting started/codeblocks', '2fe'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/markdown',
-                component: ComponentCreator('/build/docs/getting started/markdown', 'd08'),
+                path: '/My-Blog/docs/getting started/markdown',
+                component: ComponentCreator('/My-Blog/docs/getting started/markdown', 'ffc'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/mdx',
-                component: ComponentCreator('/build/docs/getting started/mdx', 'b25'),
+                path: '/My-Blog/docs/getting started/mdx',
+                component: ComponentCreator('/My-Blog/docs/getting started/mdx', '6cd'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/table-of-contents',
-                component: ComponentCreator('/build/docs/getting started/table-of-contents', 'a5d'),
+                path: '/My-Blog/docs/getting started/table-of-contents',
+                component: ComponentCreator('/My-Blog/docs/getting started/table-of-contents', '4a5'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/getting started/tabs',
-                component: ComponentCreator('/build/docs/getting started/tabs', 'ea7'),
+                path: '/My-Blog/docs/getting started/tabs',
+                component: ComponentCreator('/My-Blog/docs/getting started/tabs', '65f'),
                 exact: true,
                 sidebar: "defaultSidebar"
               },
               {
-                path: '/build/docs/single-page',
-                component: ComponentCreator('/build/docs/single-page', 'f7d'),
+                path: '/My-Blog/docs/single-page',
+                component: ComponentCreator('/My-Blog/docs/single-page', 'ba7'),
                 exact: true,
                 sidebar: "defaultSidebar"
               }
@@ -184,8 +149,8 @@ export default [
     ]
   },
   {
-    path: '/build/',
-    component: ComponentCreator('/build/', 'c66'),
+    path: '/My-Blog/',
+    component: ComponentCreator('/My-Blog/', 'cd2'),
     exact: true
   },
   {

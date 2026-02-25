@@ -5,7 +5,7 @@
   "source": "@site/docs/single-page.md",
   "sourceDirName": ".",
   "slug": "/single-page",
-  "permalink": "/build/docs/single-page",
+  "permalink": "/My-Blog/docs/single-page",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -25,6 +25,6 @@
   "sidebar": "defaultSidebar",
   "next": {
     "title": "Custom Title",
-    "permalink": "/build/docs/category/custom-title"
+    "permalink": "/My-Blog/docs/category/custom-title"
   }
 }

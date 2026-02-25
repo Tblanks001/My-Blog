@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_website=globalThis.webpackChunkdocusaurus_website||[]).push([[8121],{8070(a){a.exports=JSON.parse('{"tags":[{"label":"Goals","permalink":"/blog/tags/goals","count":4},{"label":"Jobs","permalink":"/blog/tags/jobs","count":2},{"label":"Car","permalink":"/blog/tags/car","count":1}]}')}}]);
